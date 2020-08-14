@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+referencia
+https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
+
 You can use the [editor on GitHub](https://github.com/jaspior/jaspior.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
